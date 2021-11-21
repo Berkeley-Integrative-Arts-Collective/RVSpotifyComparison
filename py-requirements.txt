@@ -1,0 +1,7 @@
+spotipy
+pandas
+python-dotenv
+ipykernel
+numpy
+matplotlib
+networkx
