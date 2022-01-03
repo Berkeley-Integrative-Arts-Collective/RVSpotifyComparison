@@ -2,7 +2,7 @@
 This is a network analysis of songs made by [Red Velvet](https://en.wikipedia.org/wiki/Red_Velvet_(group)) using a user survey (N=5,702) that describes a listener's favorite B-sides and Title Tracks out of Red Velvet's music (as of their December 2021 Releases). This is contrasted against Spotify's audio features, recommendations, and song popularity. A summary of findings will be completed soon.
 
 ## Developers
-Create a Python 3.9+ virtual environment with all dependencies outlined in `py-requirements.txt`. Create a `.env` file at the root and populate as follows:
+Generate a Spotify API Client ID and Client Secret. Create a Python 3.9+ virtual environment with all dependencies outlined in `py-requirements.txt`. Create a `.env` file at the root and populate as follows:
 ```py
 SPOTIPY_CLIENT_ID=your_client_id
 SPOTIPY_CLIENT_SECRET=your_client_secret
